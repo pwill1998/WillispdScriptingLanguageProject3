@@ -20,3 +20,5 @@ Nodejs must be installed. This is done via the gui installer from https://nodejs
 
 SysInfo v1.2.0 is shown on powershellgallery.com and the code to install it is "install-module -name sysinfo". Make sure you hit yes on both questions in order to install correctly.
 Notes: The data listed is unrounded so that you have a more accurate representation of how much space you have used, and stored.
+
+References: while api.js was written by me its important to note that it first came from one of our in-class labs. It was not designed by me, it was a in-class example that happened to work with the project.
